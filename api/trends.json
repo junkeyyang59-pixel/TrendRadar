@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T23:17:47.692178+08:00",
-  "total_titles_processed": 1985,
+  "generated_at": "2025-12-05T00:21:01.637962+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "美食江湖里杀出一道琉璃地瓜",
@@ -15,19 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时30分 ~ 23时17分]"
-        },
-        {
-          "title": "有哪些好吃的面条做法？",
-          "url": "https://www.zhihu.com/question/39424387",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时40分 ~ 06时41分]"
+          "time_info": "[00时20分 ~ 00时21分]"
         }
       ]
     }
