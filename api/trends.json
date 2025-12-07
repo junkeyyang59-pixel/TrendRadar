@@ -1,49 +1,7 @@
 {
-  "generated_at": "2025-12-07T23:13:13.922617+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2025-12-08T00:15:48.349853+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "有哪些好吃的下饭菜值得推荐？",
-          "url": "https://www.zhihu.com/question/380935299",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 07时13分]"
-        },
-        {
-          "title": "便利店美食对决罗森vs全家",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BE%BF%E5%88%A9%E5%BA%97%E7%BE%8E%E9%A3%9F%E5%AF%B9%E5%86%B3%E7%BD%97%E6%A3%AEvs%E5%85%A8%E5%AE%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 19时12分]"
-        },
-        {
-          "title": "李宇春说重庆美食根本不会踩雷",
-          "url": "https://www.toutiao.com/trending/7579778991029059638/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
