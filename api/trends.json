@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T07:13:32.828144+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2025-12-07T09:11:01.133033+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "有哪些好吃的下饭菜值得推荐？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时12分 ~ 07时13分]"
+        },
+        {
+          "title": "李宇春说重庆美食根本不会踩雷",
+          "url": "https://www.toutiao.com/trending/7579778991029059638/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
         }
       ]
     }
