@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T06:14:59.020874+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2025-12-16T07:15:27.977601+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 06时14分]"
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 07时15分]"
         },
         {
           "title": "泰国夜市美食有多奇葩",
