@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T22:19:39.796987+08:00",
-  "total_titles_processed": 1790,
+  "generated_at": "2025-12-15T23:19:47.099311+08:00",
+  "total_titles_processed": 1892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "探秘泰国夜市奇葩美食",
@@ -35,6 +35,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时37分 ~ 22时19分]"
+        },
+        {
+          "title": "泰国夜市美食有多奇葩",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E5%9B%BD%E5%A4%9C%E5%B8%82%E7%BE%8E%E9%A3%9F%E6%9C%89%E5%A4%9A%E5%A5%87%E8%91%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     }
