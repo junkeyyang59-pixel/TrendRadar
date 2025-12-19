@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T05:14:16.766253+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2025-12-20T06:15:22.112139+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "有哪些美食取的名字和食物本身关系不大，甚至可能会误导人的呢？",
@@ -13,11 +13,23 @@
           "source": "知乎",
           "ranks": [
             7,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[04时16分 ~ 06时15分]"
+        },
+        {
+          "title": "有什么让你爱到发狂的家常菜？",
+          "url": "https://www.zhihu.com/question/47591584",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 06时15分]"
         }
       ]
     }
