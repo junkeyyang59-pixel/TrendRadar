@@ -1,31 +1,7 @@
 {
-  "generated_at": "2025-12-19T23:16:27.769413+08:00",
-  "total_titles_processed": 2303,
+  "generated_at": "2025-12-20T00:18:57.423236+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "蜂王胎变蝇王胎,姐妹误成美食家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348085&amp;topic_name=%E8%9C%82%E7%8E%8B%E8%83%8E%E5%8F%98%E8%9D%87%E7%8E%8B%E8%83%8E%2C%E5%A7%90%E5%A6%B9%E8%AF%AF%E6%88%90%E7%BE%8E%E9%A3%9F%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13,
-            19,
-            22,
-            26,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 17时18分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
