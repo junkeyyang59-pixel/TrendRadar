@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T15:14:55.700181+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2025-12-21T16:19:07.920222+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "冬至仪式感是美食给的",
@@ -17,8 +17,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 15时14分]"
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 16时19分]"
+        },
+        {
+          "title": "印度城市勒克瑙入选联合国美食之都",
+          "url": "https://www.toutiao.com/trending/7585488835858038827/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
         }
       ]
     }
