@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T07:14:14.161085+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2025-12-31T09:08:50.089704+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 09时08分]"
         },
         {
           "title": "美食UP主海上漂泊5天去越南",
