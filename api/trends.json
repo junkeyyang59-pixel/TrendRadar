@@ -1,39 +1,7 @@
 {
-  "generated_at": "2025-12-31T23:15:28.837943+08:00",
-  "total_titles_processed": 1955,
+  "generated_at": "2026-01-01T00:19:05.529170+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "颜如晶表示今年跑一千公里，吃了很多美食，瘦了 0 斤胖了 0 斤，称运动不减肥，若想减肥吃饭与运动该如何平衡？",
-          "url": "https://www.zhihu.com/question/1989058870216237444",
-          "source": "知乎",
-          "ranks": [
-            10,
-            15,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 09时08分]"
-        },
-        {
-          "title": "美食UP主海上漂泊5天去越南",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E9%A3%9FUP%E4%B8%BB%E6%B5%B7%E4%B8%8A%E6%BC%82%E6%B3%8A5%E5%A4%A9%E5%8E%BB%E8%B6%8A%E5%8D%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 07时14分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
