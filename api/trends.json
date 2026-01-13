@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T16:22:26.942880+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-01-13T17:22:49.849467+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             14,
             15,
             16,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时23分 ~ 16时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时23分 ~ 17时22分]"
         },
         {
           "title": "台甜品店因用青提二字被骂滚出台湾",
