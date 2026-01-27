@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-27T23:25:20.140597+08:00",
-  "total_titles_processed": 2125,
+  "generated_at": "2026-01-28T00:23:05.065165+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "孙颖莎做过有成就感的美食",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%81%9A%E8%BF%87%E6%9C%89%E6%88%90%E5%B0%B1%E6%84%9F%E7%9A%84%E7%BE%8E%E9%A3%9F&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
