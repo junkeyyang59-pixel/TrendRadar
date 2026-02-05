@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T15:45:36.948438+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-02-05T16:35:13.656637+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 14时50分]"
+          "appearance_count": 6,
+          "time_info": "[13时50分 ~ 16时35分]"
         },
         {
           "title": "马年春节即将到来，除了马卡龙、马蹄糕，你还吃过或见过哪些含「马」字的美食？",
@@ -27,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时49分 ~ 15时45分]"
+          "appearance_count": 5,
+          "time_info": "[14时49分 ~ 16时35分]"
         },
         {
           "title": "春节美食挑战赛轮番开场啦",
