@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T20:43:30.776669+08:00",
-  "total_titles_processed": 1868,
+  "generated_at": "2026-02-05T22:02:17.307175+08:00",
+  "total_titles_processed": 1989,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             20,
             25,
             21,
-            30
+            30,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时50分 ~ 19时31分]"
+          "appearance_count": 10,
+          "time_info": "[13时50分 ~ 22时02分]"
         },
         {
           "title": "马年春节即将到来，除了马卡龙、马蹄糕，你还吃过或见过哪些含「马」字的美食？",
