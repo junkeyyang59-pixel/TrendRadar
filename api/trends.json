@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-07T07:19:39.093014+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-02-07T09:18:32.563550+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美食品药品监管局针对仿制减肥药采取行动",
+          "url": "https://flash.jin10.com/detail/20260207082747130800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
