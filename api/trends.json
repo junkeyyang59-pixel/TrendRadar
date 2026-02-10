@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-11T01:07:17.749833+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-02-11T02:57:14.651213+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
       "match_count": 2,
       "titles": [
+        {
+          "title": "晒出我家的小年美食",
+          "url": "https://www.douyin.com/hot/2395694",
+          "source": "抖音",
+          "ranks": [
+            28,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时57分]"
+        },
         {
           "title": "看王力宏演唱太费美食了",
           "url": "https://search.bilibili.com/all?keyword=%E7%9C%8B%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E5%A4%AA%E8%B4%B9%E7%BE%8E%E9%A3%9F%E4%BA%86",
@@ -15,20 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时07分]"
-        },
-        {
-          "title": "晒出我家的小年美食",
-          "url": "https://www.douyin.com/hot/2395694",
-          "source": "抖音",
-          "ranks": [
-            28,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 02时57分]"
         }
       ]
     }
