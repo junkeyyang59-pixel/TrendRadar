@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T03:58:23.767728+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-02-11T04:41:46.704815+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 03时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 04时41分]"
         },
         {
           "title": "看王力宏演唱太费美食了",
@@ -27,11 +27,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 03时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 04时41分]"
         }
       ]
     }
