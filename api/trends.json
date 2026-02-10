@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T19:45:03.892606+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2026-02-10T20:56:26.193480+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时54分 ~ 19时45分]"
+          "appearance_count": 6,
+          "time_info": "[17时54分 ~ 20时56分]"
+        },
+        {
+          "title": "秀一波我的春节邪修美食",
+          "url": "https://www.douyin.com/hot/2395665",
+          "source": "抖音",
+          "ranks": [
+            23,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时47分 ~ 20时56分]"
         },
         {
           "title": "米焙食验室教新春甜品",
@@ -27,18 +40,6 @@
           "ranks": [
             14,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时47分 ~ 19时45分]"
-        },
-        {
-          "title": "秀一波我的春节邪修美食",
-          "url": "https://www.douyin.com/hot/2395665",
-          "source": "抖音",
-          "ranks": [
-            23,
-            22
           ],
           "is_new": false,
           "appearance_count": 3,
