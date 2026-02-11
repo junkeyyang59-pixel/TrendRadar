@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T07:33:28.919863+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2026-02-11T09:45:57.336367+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 09时45分]"
         },
         {
           "title": "看王力宏演唱太费美食了",
@@ -29,11 +29,12 @@
           "ranks": [
             12,
             13,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 09时45分]"
         },
         {
           "title": "年夜饭每道美食都蕴藏着吉祥话",
@@ -44,8 +45,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时33分]"
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 09时45分]"
         },
         {
           "title": "秀一波我的春节邪修美食",
