@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T05:28:46.524843+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-02-12T06:29:24.148396+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时29分]"
         },
         {
           "title": "晒出我家的小年美食",
@@ -32,8 +32,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时29分]"
         }
       ]
     }
