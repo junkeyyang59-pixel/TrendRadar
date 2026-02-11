@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-11T16:40:09.860717+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-02-11T17:45:28.604116+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
       "match_count": 5,
       "titles": [
+        {
+          "title": "网友称车厘子不光价格崩了，口感和味道也崩了，很难买到好吃的车厘子，你有这种感觉吗？为什么会这样？",
+          "url": "https://www.zhihu.com/question/2004578484396189205",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 17时45分]"
+        },
         {
           "title": "晒出我家的小年美食",
           "url": "https://www.douyin.com/hot/2395694",
@@ -22,8 +35,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 16时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 17时45分]"
         },
         {
           "title": "看王力宏演唱太费美食了",
@@ -39,19 +52,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时01分 ~ 12时25分]"
-        },
-        {
-          "title": "网友称车厘子不光价格崩了，口感和味道也崩了，很难买到好吃的车厘子，你有这种感觉吗？为什么会这样？",
-          "url": "https://www.zhihu.com/question/2004578484396189205",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 16时40分]"
         },
         {
           "title": "年夜饭每道美食都蕴藏着吉祥话",
