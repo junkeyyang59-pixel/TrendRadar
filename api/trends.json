@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-14T01:39:01.555918+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-02-14T02:37:12.807996+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "地图上的美食打开方式能有多不同",
+          "url": "https://www.douyin.com/hot/2399404",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 02时37分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
