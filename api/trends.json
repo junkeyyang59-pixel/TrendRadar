@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-02-13T23:36:01.632522+08:00",
-  "total_titles_processed": 2133,
+  "generated_at": "2026-02-14T00:37:29.852937+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "有哪些关于美食的文学描写，让你印象深刻？",
-          "url": "https://www.zhihu.com/question/424366363",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 06时25分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
