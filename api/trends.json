@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T17:24:36.305917+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-02-14T18:20:04.206741+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "地图上的美食打开方式能有多不同",
@@ -23,6 +23,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[02时36分 ~ 14时36分]"
+        },
+        {
+          "title": "三部门：支持白酒、黄酒等中式酒品与中式美食“酒餐融合协同出海”",
+          "url": "https://www.cls.cn/detail/2290333",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         }
       ]
     }
