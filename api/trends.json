@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-20T18:31:13.295893+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-02-20T19:27:14.357329+08:00",
+  "total_titles_processed": 1504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "米兰冬奥现场有哪些美食",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E7%8E%B0%E5%9C%BA%E6%9C%89%E5%93%AA%E4%BA%9B%E7%BE%8E%E9%A3%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
+        },
         {
           "title": "春节这种美食藏隐患 老人孩子要注意",
           "url": "https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E8%BF%99%E7%A7%8D%E7%BE%8E%E9%A3%9F%E8%97%8F%E9%9A%90%E6%82%A3+%E8%80%81%E4%BA%BA%E5%AD%A9%E5%AD%90%E8%A6%81%E6%B3%A8%E6%84%8F",
