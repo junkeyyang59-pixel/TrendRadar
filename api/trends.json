@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T19:27:14.357329+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2026-02-20T20:41:04.373454+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E7%8E%B0%E5%9C%BA%E6%9C%89%E5%93%AA%E4%BA%9B%E7%BE%8E%E9%A3%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 20时41分]"
         },
         {
           "title": "春节这种美食藏隐患 老人孩子要注意",
