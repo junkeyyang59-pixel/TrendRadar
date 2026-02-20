@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T21:56:51.475689+08:00",
-  "total_titles_processed": 1716,
+  "generated_at": "2026-02-20T22:37:35.804783+08:00",
+  "total_titles_processed": 1787,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 20时41分]"
+          "appearance_count": 5,
+          "time_info": "[19时26分 ~ 22时37分]"
         },
         {
           "title": "春节这种美食藏隐患 老人孩子要注意",
