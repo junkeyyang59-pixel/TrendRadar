@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T14:34:07.913433+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-02-21T15:28:27.652406+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "米兰冬奥现场有哪些美食",
@@ -22,6 +22,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时32分 ~ 14时34分]"
+        },
+        {
+          "title": "实探冬奥会滑雪比赛地美食",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%8E%A2%E5%86%AC%E5%A5%A5%E4%BC%9A%E6%BB%91%E9%9B%AA%E6%AF%94%E8%B5%9B%E5%9C%B0%E7%BE%8E%E9%A3%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     }
