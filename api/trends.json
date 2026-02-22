@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T15:32:11.287248+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-02-22T16:24:06.624589+08:00",
+  "total_titles_processed": 890,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/topic/1996572017655248636/hot",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 16时24分]"
         }
       ]
     }
