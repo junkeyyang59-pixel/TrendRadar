@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T16:41:09.883566+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-02-23T17:46:40.663182+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             20,
             14,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 16时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 17时46分]"
         },
         {
           "title": "UP主测评三角洲里的美食",
