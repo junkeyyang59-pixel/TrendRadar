@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T23:36:01.597563+08:00",
-  "total_titles_processed": 2161,
+  "generated_at": "2026-03-03T00:35:57.861212+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,21 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "江浙沪就这样等美食回归解馋",
-          "url": "https://www.douyin.com/hot/2415104",
-          "source": "抖音",
+          "title": "你听过或者吃过哪些名字很奇葩，但是味道却不错的美食？",
+          "url": "https://www.zhihu.com/question/304882818",
+          "source": "知乎",
           "ranks": [
-            10,
-            9,
-            7,
-            6,
-            4,
-            24,
-            25
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时19分 ~ 13时47分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         }
       ]
     }
