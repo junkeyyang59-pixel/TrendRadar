@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-03-03T23:41:33.218254+08:00",
-  "total_titles_processed": 2184,
+  "generated_at": "2026-03-04T00:38:49.395189+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "你听过或者吃过哪些名字很奇葩，但是味道却不错的美食？",
-          "url": "https://www.zhihu.com/question/304882818",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时36分]"
-        },
-        {
-          "title": "除了吃元宵，元宵节还有哪些不为人知的传统美食？",
-          "url": "https://www.zhihu.com/question/2009722359096026266",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
