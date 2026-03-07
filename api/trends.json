@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T23:17:16.428589+08:00",
-  "total_titles_processed": 1739,
+  "generated_at": "2026-03-08T00:20:11.557065+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,17 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "贵州省长“安利”贵州美食",
-          "url": "https://www.douyin.com/hot/2421560",
-          "source": "抖音",
+          "title": "10分钟市民夜校569门课报满！90后最多，烘焙缝纫最受欢迎",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32722938",
+          "source": "澎湃新闻",
           "ranks": [
-            14,
-            22,
-            28
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 22时18分]"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时20分]"
         }
       ]
     }
