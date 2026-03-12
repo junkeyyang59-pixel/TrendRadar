@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-12T22:49:57.662630+08:00",
-  "total_titles_processed": 2046,
+  "generated_at": "2026-03-12T23:53:00.750644+08:00",
+  "total_titles_processed": 2128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
       "match_count": 2,
       "titles": [
+        {
+          "title": "93岁美食博主“毛奶奶”去世",
+          "url": "https://www.baidu.com/s?wd=93%E5%B2%81%E7%BE%8E%E9%A3%9F%E5%8D%9A%E4%B8%BB%E2%80%9C%E6%AF%9B%E5%A5%B6%E5%A5%B6%E2%80%9D%E5%8E%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            16,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时28分 ~ 23时53分]"
+        },
         {
           "title": "93岁美食博主毛奶奶去世",
           "url": "https://www.toutiao.com/trending/7616231399078838308/",
@@ -20,19 +34,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时36分 ~ 20时41分]"
-        },
-        {
-          "title": "93岁美食博主“毛奶奶”去世",
-          "url": "https://www.baidu.com/s?wd=93%E5%B2%81%E7%BE%8E%E9%A3%9F%E5%8D%9A%E4%B8%BB%E2%80%9C%E6%AF%9B%E5%A5%B6%E5%A5%B6%E2%80%9D%E5%8E%BB%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时28分 ~ 22时49分]"
         }
       ]
     }
