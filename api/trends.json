@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T19:28:34.744712+08:00",
-  "total_titles_processed": 1733,
+  "generated_at": "2026-03-12T20:41:36.337248+08:00",
+  "total_titles_processed": 1834,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             6,
-            25
+            25,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 20时41分]"
         },
         {
           "title": "93岁美食博主“毛奶奶”去世",
@@ -27,9 +28,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 20时41分]"
         }
       ]
     }
