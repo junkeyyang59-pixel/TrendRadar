@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T00:23:30.844028+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-15T01:21:39.875541+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时21分]"
         },
         {
           "title": "30平店面分出10家档口变“美食城”",
@@ -26,8 +26,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时21分]"
         }
       ]
     }
