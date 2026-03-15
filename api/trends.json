@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-15T07:21:14.234519+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-03-15T09:45:01.924332+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
       "match_count": 2,
       "titles": [
+        {
+          "title": "AI带路寻美食,吧友吃到自闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
         {
           "title": "30平店面分出10家档口变“美食城”",
           "url": "https://www.baidu.com/s?wd=30%E5%B9%B3%E5%BA%97%E9%9D%A2%E5%88%86%E5%87%BA10%E5%AE%B6%E6%A1%A3%E5%8F%A3%E5%8F%98%E2%80%9C%E7%BE%8E%E9%A3%9F%E5%9F%8E%E2%80%9D",
@@ -15,17 +26,6 @@
             20,
             19,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时21分]"
-        },
-        {
-          "title": "AI带路寻美食,吧友吃到自闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 9,
