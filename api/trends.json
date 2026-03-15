@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T09:45:01.924332+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-03-15T12:27:54.148809+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时27分]"
         },
         {
           "title": "30平店面分出10家档口变“美食城”",
