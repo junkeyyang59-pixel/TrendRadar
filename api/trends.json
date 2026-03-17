@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-03-17T23:59:23.234047+08:00",
-  "total_titles_processed": 2059,
+  "generated_at": "2026-03-18T01:02:47.260550+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "UP主沉浸式体验F1赛场美食",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8CF1%E8%B5%9B%E5%9C%BA%E7%BE%8E%E9%A3%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时53分 ~ 23时59分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
