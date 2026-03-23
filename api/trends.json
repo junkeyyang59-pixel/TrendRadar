@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-23T12:23:28.704546+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-03-23T14:07:13.122074+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股预制菜概念调整，龙大美食、天马科技午后触及跌停，天地在线此前跌停，紫燕食品、千味央厨、岭南控股、金陵饭店跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260323133240163800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
