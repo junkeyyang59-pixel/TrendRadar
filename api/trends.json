@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T03:53:22.754648+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-04-08T04:39:44.816645+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 03时53分]"
+          "appearance_count": 3,
+          "time_info": "[02时53分 ~ 04时39分]"
         },
         {
           "title": "各地特色美食花海大赏",
           "url": "https://www.douyin.com/hot/2458230",
           "source": "抖音",
           "ranks": [
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 04时39分]"
         }
       ]
     }
