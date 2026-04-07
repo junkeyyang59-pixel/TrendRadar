@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T04:39:44.816645+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-04-08T05:37:21.636021+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时53分 ~ 04时39分]"
+          "appearance_count": 4,
+          "time_info": "[02时53分 ~ 05时37分]"
         },
         {
           "title": "各地特色美食花海大赏",
@@ -25,11 +26,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 04时39分]"
+          "appearance_count": 3,
+          "time_info": "[02时53分 ~ 05时37分]"
         }
       ]
     }
