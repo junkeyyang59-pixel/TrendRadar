@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T16:09:30.212685+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2026-04-08T18:02:29.460404+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             17,
             14,
             16,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时53分 ~ 16时09分]"
+          "appearance_count": 13,
+          "time_info": "[02时53分 ~ 18时02分]"
         },
         {
           "title": "如何做好吃的炸酱面？",
