@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-04-22T17:04:11.801604+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-04-22T18:15:08.702385+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
       "match_count": 5,
       "titles": [
+        {
+          "title": "青岛的甜品简直夯爆了",
+          "url": "https://www.douyin.com/hot/2474696",
+          "source": "抖音",
+          "ranks": [
+            10,
+            12,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时41分 ~ 18时15分]"
+        },
         {
           "title": "A股猪肉股快速反弹，天邦食品直线涨停，龙大美食、大禹生物、立华股份、天康生物、正邦科技跟涨。",
           "url": "https://wallstreetcn.com/livenews/3092213",
@@ -17,19 +31,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
-        },
-        {
-          "title": "青岛的甜品简直夯爆了",
-          "url": "https://www.douyin.com/hot/2474696",
-          "source": "抖音",
-          "ranks": [
-            10,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时41分 ~ 17时04分]"
         },
         {
           "title": "美食UP主挑战硬核越野赛",
