@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T15:10:43.545610+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-04-22T17:04:11.801604+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 15时10分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 17时04分]"
         },
         {
           "title": "美食UP主挑战硬核越野赛",
