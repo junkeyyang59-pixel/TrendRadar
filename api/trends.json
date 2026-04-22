@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T21:09:19.770267+08:00",
-  "total_titles_processed": 1684,
+  "generated_at": "2026-04-22T23:07:17.114714+08:00",
+  "total_titles_processed": 1812,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             12,
             8,
             11,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时41分 ~ 21时09分]"
+          "appearance_count": 12,
+          "time_info": "[12时41分 ~ 23时07分]"
         },
         {
           "title": "A股猪肉股快速反弹，天邦食品直线涨停，龙大美食、大禹生物、立华股份、天康生物、正邦科技跟涨。",
