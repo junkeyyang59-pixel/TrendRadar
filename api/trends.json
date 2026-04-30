@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T20:11:04.797329+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-04-30T23:02:56.021016+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2484465",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时07分 ~ 20时11分]"
+          "appearance_count": 6,
+          "time_info": "[16时07分 ~ 23时02分]"
         },
         {
           "title": "锦鲤身亡 主人将其做成美食",
