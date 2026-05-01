@@ -1,41 +1,22 @@
 {
-  "generated_at": "2026-05-01T23:50:05.838119+08:00",
-  "total_titles_processed": 1672,
+  "generated_at": "2026-05-02T00:49:08.022635+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "五一美食判官已上线",
-          "url": "https://www.douyin.com/hot/2484465",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11,
-            17,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时11分 ~ 14时09分]"
-        },
         {
           "title": "五一跟UP主去吃伦敦美食",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%94%E4%B8%80%E8%B7%9FUP%E4%B8%BB%E5%8E%BB%E5%90%83%E4%BC%A6%E6%95%A6%E7%BE%8E%E9%A3%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            7,
-            10,
-            21,
-            25,
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时18分 ~ 23时50分]"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 00时49分]"
         }
       ]
     }
