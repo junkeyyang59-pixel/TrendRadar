@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T16:59:44.483235+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-05-02T17:59:36.804188+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             20,
             29,
             30,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 16时59分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 17时59分]"
         },
         {
           "title": "美团：“五一”首日多地景区门票售罄 “本地人推荐美食”搜索热度增122%",
