@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T04:35:59.693540+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-05-04T05:35:47.630974+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2487697",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 05时35分]"
         },
         {
           "title": "在这个美食综艺上，七国厨师争夺大奖",
@@ -27,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 05时35分]"
         }
       ]
     }
