@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T10:06:48.416306+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-05-04T13:57:48.998942+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 10时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 13时57分]"
         },
         {
           "title": "在这个美食综艺上，七国厨师争夺大奖",
@@ -27,11 +27,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 10时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 13时57分]"
         }
       ]
     }
