@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T18:59:31.525833+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-05-04T20:22:01.830166+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "假期的快乐是美食给的",
@@ -33,6 +33,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时40分 ~ 13时57分]"
+        },
+        {
+          "title": "跟着UP主去吃山西美食",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B7%9F%E7%9D%80UP%E4%B8%BB%E5%8E%BB%E5%90%83%E5%B1%B1%E8%A5%BF%E7%BE%8E%E9%A3%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
         }
       ]
     }
