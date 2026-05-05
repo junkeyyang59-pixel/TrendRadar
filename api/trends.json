@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T10:06:12.730955+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2026-05-05T13:36:42.883875+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
@@ -15,22 +15,24 @@
             5,
             7,
             24,
-            29
+            29,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 10时06分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 13时36分]"
         },
         {
           "title": "立夏必吃美食",
           "url": "https://www.douyin.com/hot/2488871",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 13时36分]"
         }
       ]
     }
