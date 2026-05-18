@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-05-18T22:32:36.735730+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-05-19T01:28:16.747683+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "辛追夫人同款美食是什么味道",
-          "url": "https://www.baidu.com/s?wd=%E8%BE%9B%E8%BF%BD%E5%A4%AB%E4%BA%BA%E5%90%8C%E6%AC%BE%E7%BE%8E%E9%A3%9F%E6%98%AF%E4%BB%80%E4%B9%88%E5%91%B3%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 14时50分]"
-        },
-        {
-          "title": "跟着中华美食逛博物馆",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%9F%E7%9D%80%E4%B8%AD%E5%8D%8E%E7%BE%8E%E9%A3%9F%E9%80%9B%E5%8D%9A%E7%89%A9%E9%A6%86",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时36分 ~ 10时37分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
