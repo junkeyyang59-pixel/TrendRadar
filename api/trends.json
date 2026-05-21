@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T21:58:49.886089+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2026-05-22T00:38:56.697460+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,11 @@
           "url": "https://www.douyin.com/hot/2507411",
           "source": "抖音",
           "ranks": [
-            2
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时58分"
+          "time_info": "00时38分"
         }
       ]
     }
