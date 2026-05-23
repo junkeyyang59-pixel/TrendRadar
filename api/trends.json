@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T14:31:21.662409+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-05-23T16:59:24.608299+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "寻味城市招牌美食",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 04时29分]"
+        },
+        {
+          "title": "食堂阿姨成“美食博主”",
+          "url": "https://www.baidu.com/s?wd=%E9%A3%9F%E5%A0%82%E9%98%BF%E5%A7%A8%E6%88%90%E2%80%9C%E7%BE%8E%E9%A3%9F%E5%8D%9A%E4%B8%BB%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     }
