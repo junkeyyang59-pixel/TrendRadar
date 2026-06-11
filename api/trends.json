@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-11T18:10:58.124958+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-06-11T22:32:51.191170+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "马上评｜鹅腿变鸭腿，网红美食没有豁免权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33358456",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
         {
           "title": "阎鹤祥配音美食纪录片开播",
           "url": "https://search.bilibili.com/all?keyword=%E9%98%8E%E9%B9%A4%E7%A5%A5%E9%85%8D%E9%9F%B3%E7%BE%8E%E9%A3%9F%E7%BA%AA%E5%BD%95%E7%89%87%E5%BC%80%E6%92%AD",
