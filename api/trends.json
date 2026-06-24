@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-06-24T21:13:32.722392+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-06-25T00:11:15.454797+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全国心动美食接力",
-          "url": "https://www.douyin.com/hot/2544632",
-          "source": "抖音",
-          "ranks": [
-            2,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 18时15分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
