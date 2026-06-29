@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T18:27:07.961299+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-06-29T22:44:10.134584+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "哈兰德请网友安利中国美食",
@@ -22,6 +22,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时04分 ~ 13时25分]"
+        },
+        {
+          "title": "拜见各地美食大王",
+          "url": "https://www.douyin.com/hot/2552134",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
         }
       ]
     }
