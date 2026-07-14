@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T12:44:42.909206+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-07-14T15:07:05.088786+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "杭州警方通报一甜品店主被刺身亡",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "杭州警方通报一甜品店主被刺身亡",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E7%94%9C%E5%93%81%E5%BA%97%E4%B8%BB%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         }
       ]
     }
