@@ -1,34 +1,22 @@
 {
-  "generated_at": "2026-07-21T22:58:56.838139+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2026-07-22T00:22:20.255562+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "网友买甜品被店员嘲讽45元还用团购",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E4%B9%B0%E7%94%9C%E5%93%81%E8%A2%AB%E5%BA%97%E5%91%98%E5%98%B2%E8%AE%BD45%E5%85%83%E8%BF%98%E7%94%A8%E5%9B%A2%E8%B4%AD",
-          "source": "百度热搜",
+          "title": "入伏美食解暑实力排行",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A5%E4%BC%8F%E7%BE%8E%E9%A3%9F%E8%A7%A3%E6%9A%91%E5%AE%9E%E5%8A%9B%E6%8E%92%E8%A1%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 20时24分]"
-        },
-        {
-          "title": "一年超 8 万家面包店关停，超市烘焙区却排长队，面包生意到底好不好做？反映了怎样的消费趋势？",
-          "url": "https://www.zhihu.com/question/2062293737414160723",
-          "source": "知乎",
-          "ranks": [
-            20
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时51分"
+          "time_info": "00时22分"
         }
       ]
     }
