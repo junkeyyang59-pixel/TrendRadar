@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T22:59:48.944264+08:00",
-  "total_titles_processed": 1625,
+  "generated_at": "2026-07-23T00:21:49.620800+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
@@ -12,18 +12,11 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A5%E4%BC%8F%E7%BE%8E%E9%A3%9F%E8%A7%A3%E6%9A%91%E5%AE%9E%E5%8A%9B%E6%8E%92%E8%A1%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            24,
-            28,
-            27,
-            16,
-            26,
-            29,
-            19,
-            15
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 22时59分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         }
       ]
     }
