@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-07-23T23:50:02.055897+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-07-24T01:12:42.202847+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "入伏美食解暑实力排行",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A5%E4%BC%8F%E7%BE%8E%E9%A3%9F%E8%A7%A3%E6%9A%91%E5%AE%9E%E5%8A%9B%E6%8E%92%E8%A1%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            18,
-            23,
-            17,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 16时15分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
