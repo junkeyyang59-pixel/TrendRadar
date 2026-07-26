@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-26T22:58:43.531703+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-07-27T00:02:10.170627+08:00",
+  "total_titles_processed": 318,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "家乡美食大赛冠军菜上架京东七鲜小厨",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E4%B9%A1%E7%BE%8E%E9%A3%9F%E5%A4%A7%E8%B5%9B%E5%86%A0%E5%86%9B%E8%8F%9C%E4%B8%8A%E6%9E%B6%E4%BA%AC%E4%B8%9C%E4%B8%83%E9%B2%9C%E5%B0%8F%E5%8E%A8%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
