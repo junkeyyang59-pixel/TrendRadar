@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T02:58:18.617605+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-08-02T04:09:06.342457+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             6,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时09分]"
         },
         {
           "title": "XX人吃到美食是什么梗",
@@ -26,11 +27,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            23
+            23,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时09分]"
         }
       ]
     }
