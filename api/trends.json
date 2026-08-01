@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-08-02T06:47:46.226393+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-08-02T07:51:39.389152+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
       "match_count": 2,
       "titles": [
+        {
+          "title": "XX人吃到美食是什么梗",
+          "url": "https://search.bilibili.com/all?keyword=XX%E4%BA%BA%E5%90%83%E5%88%B0%E7%BE%8E%E9%A3%9F%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            23,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 07时51分]"
+        },
         {
           "title": "山东人吃到美食belike",
           "url": "https://search.bilibili.com/all?keyword=%E5%B1%B1%E4%B8%9C%E4%BA%BA%E5%90%83%E5%88%B0%E7%BE%8E%E9%A3%9Fbelike",
@@ -15,24 +29,12 @@
             8,
             6,
             9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 05时46分]"
-        },
-        {
-          "title": "XX人吃到美食是什么梗",
-          "url": "https://search.bilibili.com/all?keyword=XX%E4%BA%BA%E5%90%83%E5%88%B0%E7%BE%8E%E9%A3%9F%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97",
-          "source": "bilibili 热搜",
-          "ranks": [
             24,
-            23,
-            8
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 07时51分]"
         }
       ]
     }
