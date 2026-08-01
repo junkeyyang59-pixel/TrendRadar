@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T04:09:06.342457+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-08-02T05:46:47.827308+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "XX人吃到美食是什么梗",
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 04时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 05时46分]"
         }
       ]
     }
