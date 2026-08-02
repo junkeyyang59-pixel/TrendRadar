@@ -1,58 +1,22 @@
 {
-  "generated_at": "2026-08-02T23:56:11.027717+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2026-08-03T00:52:16.813107+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "XX人吃到美食是什么梗",
-          "url": "https://search.bilibili.com/all?keyword=XX%E4%BA%BA%E5%90%83%E5%88%B0%E7%BE%8E%E9%A3%9F%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            23,
-            8,
-            5,
-            21,
-            25,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 18时28分]"
-        },
-        {
-          "title": "山东人吃到美食belike",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B1%B1%E4%B8%9C%E4%BA%BA%E5%90%83%E5%88%B0%E7%BE%8E%E9%A3%9Fbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            6,
-            9,
-            24,
-            22,
-            28,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 19时56分]"
-        },
         {
           "title": "一年倒闭8.5万家 烘焙店开不下去了",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%B9%B4%E5%80%92%E9%97%AD8.5%E4%B8%87%E5%AE%B6+%E7%83%98%E7%84%99%E5%BA%97%E5%BC%80%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时55分 ~ 23时56分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     }
