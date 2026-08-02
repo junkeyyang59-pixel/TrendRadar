@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T22:56:17.980003+08:00",
-  "total_titles_processed": 1268,
+  "generated_at": "2026-08-02T23:56:11.027717+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "XX人吃到美食是什么梗",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时52分 ~ 19时56分]"
+        },
+        {
+          "title": "一年倒闭8.5万家 烘焙店开不下去了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%B9%B4%E5%80%92%E9%97%AD8.5%E4%B8%87%E5%AE%B6+%E7%83%98%E7%84%99%E5%BA%97%E5%BC%80%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时55分 ~ 23时56分]"
         }
       ]
     }
