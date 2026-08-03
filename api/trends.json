@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T04:22:04.135125+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-08-04T06:01:41.245359+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
@@ -14,34 +14,24 @@
           "ranks": [
             6,
             5,
-            25
+            25,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时22分]"
-        },
-        {
-          "title": "天津人吃到美食belike",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E6%B4%A5%E4%BA%BA%E5%90%83%E5%88%B0%E7%BE%8E%E9%A3%9Fbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 06时01分]"
         },
         {
           "title": "各国武官排队打卡中餐美食",
           "url": "https://www.toutiao.com/trending/7668896884770308132/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 06时01分]"
         },
         {
           "title": "美食番整狠活,主角给评委下药",
@@ -52,8 +42,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 06时01分]"
+        },
+        {
+          "title": "天津人吃到美食belike",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E6%B4%A5%E4%BA%BA%E5%90%83%E5%88%B0%E7%BE%8E%E9%A3%9Fbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 06时01分]"
         }
       ]
     }
