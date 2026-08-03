@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T07:52:46.933008+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-08-03T10:02:54.279889+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 07时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 10时02分]"
         },
         {
           "title": "山东人吃到美食belike",
@@ -27,7 +28,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
