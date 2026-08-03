@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T18:35:23.549355+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-08-03T21:34:57.032913+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "一年倒闭8.5万家 烘焙店开不下去了",
@@ -22,6 +22,17 @@
           "time_info": "[00时52分 ~ 10时02分]"
         },
         {
+          "title": "天津人吃到美食belike",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E6%B4%A5%E4%BA%BA%E5%90%83%E5%88%B0%E7%BE%8E%E9%A3%9Fbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "美食番整狠活,主角给评委下药",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356737&amp;topic_name=%E7%BE%8E%E9%A3%9F%E7%95%AA%E6%95%B4%E7%8B%A0%E6%B4%BB%2C%E4%B8%BB%E8%A7%92%E7%BB%99%E8%AF%84%E5%A7%94%E4%B8%8B%E8%8D%AF",
           "source": "贴吧",
@@ -30,8 +41,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 18时35分]"
+          "appearance_count": 4,
+          "time_info": "[14时12分 ~ 21时34分]"
         },
         {
           "title": "XX人吃到美食是什么梗",
@@ -58,6 +69,18 @@
           "time_info": "[07时52分 ~ 14时13分]"
         },
         {
+          "title": "各国武官排队打卡中餐美食",
+          "url": "https://www.toutiao.com/trending/7668896884770308132/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 21时34分]"
+        },
+        {
           "title": "各国武官在中使馆排队打卡中餐美食",
           "url": "https://www.toutiao.com/trending/7668896884770308132/",
           "source": "今日头条",
@@ -67,17 +90,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时12分 ~ 14时13分]"
-        },
-        {
-          "title": "各国武官排队打卡中餐美食",
-          "url": "https://www.toutiao.com/trending/7668896884770308132/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
         }
       ]
     }
