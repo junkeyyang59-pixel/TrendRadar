@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T15:33:53.242080+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-08-04T18:31:36.463374+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             18,
             19,
             22,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 15时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 18时31分]"
         },
         {
           "title": "复刻印度美食Keema",
@@ -57,11 +58,12 @@
           "ranks": [
             7,
             4,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 18时31分]"
         }
       ]
     }
