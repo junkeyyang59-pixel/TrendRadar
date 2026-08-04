@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T06:55:49.429654+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-08-05T07:58:01.616099+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时39分 ~ 07时58分]"
         },
         {
           "title": "天津人吃到美食belike",
@@ -28,11 +28,12 @@
             25,
             27,
             30,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时39分 ~ 07时58分]"
         }
       ]
     }
