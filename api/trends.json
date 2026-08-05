@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T06:14:01.780006+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-08-06T07:53:28.272168+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 06时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时53分]"
         },
         {
           "title": "首届早餐烘焙大师赛",
@@ -30,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 06时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时53分]"
         }
       ]
     }
