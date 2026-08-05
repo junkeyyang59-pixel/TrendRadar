@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T03:18:37.305586+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-08-06T05:01:12.197108+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时01分]"
         },
         {
           "title": "首届早餐烘焙大师赛",
@@ -25,11 +25,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时01分]"
         }
       ]
     }
