@@ -1,41 +1,7 @@
 {
-  "generated_at": "2026-08-06T23:08:49.617710+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2026-08-07T07:52:28.605293+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "沈腾新片《欢迎来龙餐馆》空降，极限定档 8 月 11 日全国上映，战争美食喜剧题材，对此你有何期待？",
-          "url": "https://www.zhihu.com/question/2068277179704664546",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 07时53分]"
-        },
-        {
-          "title": "首届早餐烘焙大师赛",
-          "url": "https://www.douyin.com/hot/2598310",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 07时53分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
