@@ -1,36 +1,22 @@
 {
-  "generated_at": "2026-08-09T23:24:03.106571+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-08-10T00:25:40.775574+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "贵州菜申请加入暑期美食展",
           "url": "https://www.douyin.com/hot/2603000",
           "source": "抖音",
           "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时57分 ~ 23时24分]"
-        },
-        {
-          "title": "小孩哥来合肥被徽州美食折服",
-          "url": "https://www.toutiao.com/trending/7671578436187734022/",
-          "source": "今日头条",
-          "ranks": [
-            16
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "00时25分"
         }
       ]
     }
