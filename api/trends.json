@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T12:57:51.553188+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2026-08-09T13:44:17.441633+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2603000",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 13时44分]"
         },
         {
           "title": "小孩哥来合肥被徽州美食折服",
