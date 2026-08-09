@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T13:44:17.441633+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2026-08-09T14:41:42.145631+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 14时41分]"
         },
         {
           "title": "小孩哥来合肥被徽州美食折服",
