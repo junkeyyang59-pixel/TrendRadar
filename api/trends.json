@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-08-10T23:54:07.687309+08:00",
-  "total_titles_processed": 1701,
+  "generated_at": "2026-08-11T00:45:39.569006+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "美食 好吃的 家常菜 网红美食 街头小吃 餐厅探店 美食教程 美食打卡 甜品 烘焙 奶茶新品 美食探店 特色菜 美食攻略 小吃推荐 美食测评 创意美食 早餐食谱 晚餐做法 火锅新品 烧烤技巧 甜点做法 地方美食",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "贵州菜申请加入暑期美食展",
-          "url": "https://www.douyin.com/hot/2603000",
-          "source": "抖音",
-          "ranks": [
-            5,
-            4,
-            2,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 13时19分]"
-        },
-        {
-          "title": "马健涛新歌融入各地美食元素",
-          "url": "https://www.douyin.com/hot/2604192",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时10分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
